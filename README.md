@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @dexshadow444
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on  web development 
-- 📫 How to reach me :if you need you will..
-- 😄 Pronouns: 🧾
-- ⚡ Fun fact: ...im a lil boy....
+Helping businesses turn ideas into powerful web products.
+
+I’m a web developer specializing in modern, responsive, and scalable websites/web apps.
+From business websites to custom e-commerce platforms, I build solutions that are fast,
+user-friendly, and built for growth.
+
+✔ Responsive UI/UX
+✔ Secure Backend Systems
+✔ API Integrations
+✔ Deployment & Optimization
+
+Let’s build something impactful.
 
 <!---
 dexshadow444/dexshadow444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
