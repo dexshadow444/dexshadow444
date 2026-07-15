@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darsan S</h1>
 <h3 align="center">Full-Stack Web Developer | AI Enthusiast | IoT Developer | BCA Student</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dexshadow444&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+
 
 ---
 
